@@ -27,7 +27,7 @@ UI test cases are created on [Example Domain Page](https://example.com/) site.
 #### Steps to use
 ##### 1. Dependency Installation
 
-Clone the code from github [download]() OR [cloned]() using git command.
+Clone the code from github [download](https://github.com/dineshjk92/valueblue-challenge-ui/archive/refs/heads/main.zip) OR [cloned](https://github.com/dineshjk92/valueblue-challenge-ui.git) using git command.
 
 Installing the dependencies.
 ```sh
